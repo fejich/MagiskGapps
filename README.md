@@ -6,3 +6,6 @@ GApps packages for Magisk
 # [Download](https://sourceforge.net/projects/magiskgapps/files/)
 
 # [Homepage](https://mg.pixel-fy.com)
+
+
+>2021.04.24 测试 小米9se MIUI12.5 中国版，刷入后完美工作
